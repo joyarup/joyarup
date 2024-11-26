@@ -40,7 +40,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyarup&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyarup&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </div>
 
