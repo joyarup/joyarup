@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-🔭 I'm currently a Master Student in Computer Vision and Data Science  
+🔭 I'm currently a Master Student in Computer vision and Data Science  
 🌱 I'm passionate about AI/ML and its applications, mainly on vision and medicine.  
 🎯 Goal: Contributing to innovative AI projects that make a difference  
 
@@ -40,59 +40,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joyarup&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyarup&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Beach Crowd Detection](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=beach-crowd-detection&theme=tokyonight)](https://github.com/your-username/beach-crowd-detection)
-<!-- Add more project cards as needed -->
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" alt="Contribution Graph" width="100%"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Computer Vision Techniques](your-blog-url)
-- [Image Processing with OpenCV](your-blog-url)
-- [Machine Learning in Practice](your-blog-url)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<h3 align="center">🤝 Let's Connect!</h3>
-
-<p align="center">
-  Feel free to reach out for collaborations or just a friendly hello! 😊
-</p>
-
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-
-</div>
-
----
-
-<p align="center">⭐️ From [your-username](https://github.com/your-username)</p>
+<p align="center">⭐️ From joyarup(https://github.com/joyarup)</p>
 
