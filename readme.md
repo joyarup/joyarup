@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-🔭 I'm currently a Master Student in Computer vision and Data Science  
+🔭 I'm currently a Master Student in Computer Vision and Data Science  
 🌱 I'm passionate about AI/ML and its applications, mainly on vision and medicine.  
 🎯 Goal: Contributing to innovative AI projects that make a difference  
 
